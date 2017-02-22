@@ -1,0 +1,10 @@
+the importance of namenode is that-
+
+1) It processes client request which can be read,write or delete
+
+2) It holds the entire metadata in RAM hence is also called as namespace.
+
+3) Namenode manages the block storage
+
+4) It supports the heart beat management
+
